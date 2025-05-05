@@ -11,3 +11,12 @@ https://mirrors.aliyun.com/centos/version/os/x86_64/
 ```
 
 ![安装源修改](images/CentOS/1746273532568.png)
+
+# yum安装错误
+
+修改软件源
+
+```
+curl -o /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-7.repo
+```
+
