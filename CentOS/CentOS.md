@@ -7,7 +7,7 @@
 修改安装源地址
 
 ```
-https://mirrors.aliyun.com/centos/7.9.2009/os/x86_64/
+https://mirrors.aliyun.com/centos/version/os/x86_64/
 ```
-![安装源修改](images/CentOS/1746273532568.png)
 
+![安装源修改](images/CentOS/1746273532568.png)
